@@ -18,3 +18,15 @@ To analyze outcomes of fundraising for plays vs. their campaign goal, we created
 * The visualized chart shows a spike in successful campaigns as the goal nears and passes the $25000 and $30000 goal buckets, but the sample size for these data points is in the single digits. The percentage calculations from $25000 to $50000 in campaign goal do not properly describe the very small counts of campaigns in the higher-goal buckets. Notable, only 2 out 16 campaigns were successful with fundraising goals in excess of $50,000 or 12.5% success rate and a failure rate of 87.5%.
 * In aggregate, campaigns for plays with a fundraising goal that is more modest (less than $15,000) were more likely to be successful than fail.
 
+## Final Thoughts
+
+### Limitations:
+* The dataset is quite outdated. The most recent campaign recorded in the spreadsheet is from May 2017, meaning there could be new trends that are not able to analyzed when it comes to Kickstarter fundraising campaigns and their outcomes. 
+* Notably, all of this data is pre-pandemic. The pandemic would probably have had a significant negative effect on campaigns in the theater categories, especially live action productions like plays.
+* If the goal is to help Louise raise money for her project generally, this dataset is also limited in that it only covers one single channel she could pursue for fundraising: Kickstarter. There are both other organizations that facilitate crowd-funding that may be better suited for her category, and there also may be organizations uniquely suited to support theater productions.
+
+### Further Analysis:
+* It may be useful to look at the other metrics regarding the timing of campaigns and relate them to outcomes. Mapping outcomes against date closed or days-in-the-field (time the fundraiser was in action) may give Louise other insights about how to strategize her own campaign.
+* Louise may also want to look at average donation and backers count of relevant campaigns with similar categories and goals. Mapping similar campaigns as to what she needs for her play would allow her greater insight into what characteristics a successful campaign should have.
+
+

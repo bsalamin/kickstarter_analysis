@@ -2,7 +2,7 @@
 
 ## Objective:
 
-The objective of the analysis was to juxtapose fundraising data about theater pproduction and plays to see what insights there were for a proposed play’s fundraising goal or a campaign launch date for a theater production and relate that to campaigns’ outcomes (success/failure). 
+The objective of this analysis was to juxtapose fundraising data about theater pproduction and plays to see what insights there were for a proposed play’s fundraising goal or a campaign launch date for a theater production and relate that to campaigns’ outcomes (success/failure). 
 
 ## Process for Theater Campaign Launch vs. Outcome:
 In order to analyze the outcomes of theater fundraising campaigns, we utilized a pivot table to describe the amount of successful, failed, and canceled fundraising campaigns in the theater parent category. First, we translated the “Date Launched” variable in the master dataset into a new variable that just described the year the campaign was launched. Then, we filtered the row labels so that analysis was year-agnostic, and the main of time was the month that a given year a campaign’s launch occurred compared to its relative outcome. This was the main challenge, as the pivot table did not want to describe campaign results regardless of the year. The pivot table needed to be coerced into giving campaign outcome statistics on a monthly basis, as well as be resorted to better visualize successful outcomes over failed or canceled.

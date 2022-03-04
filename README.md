@@ -23,7 +23,7 @@ To analyze outcomes of fundraising for plays vs. their campaign goal, we created
 
 ## Conclusions about Play Outcomes based on Goals.
 * The visualized chart shows a spike in successful campaigns as the goal nears and passes the $25000 and $30000 goal buckets, but the sample size for these data points is in the single digits. The percentage calculations from $25000 to $50000 in campaign goal do not properly describe the very small counts of campaigns in the higher-goal buckets. Notable, only 2 out 16 campaigns were successful with fundraising goals in excess of $50,000 or 12.5% success rate and a failure rate of 87.5%.
-* In aggregate, campaigns for plays with a fundraising goal that is more modest (less than $15,000) were more likely to be successful than fail. !(https://github.com/bsalamin/kickstarter_analysis_BAS_02242022/blob/main/resources/Goals%20table.png)
+* In aggregate, campaigns for plays with a fundraising goal that is more modest (less than $15,000) were more likely to be successful than fail. ! (https://github.com/bsalamin/kickstarter_analysis_BAS_02242022/blob/main/resources/Goals%20table.png)
 
 ## Final Thoughts
 

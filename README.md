@@ -30,7 +30,7 @@ A potential challenge across the counting and then calculating the percentages i
 * If the goal is to help Louise raise money for her project generally, this dataset is also limited in that it only covers one single channel she could pursue for fundraising: Kickstarter. There are both other organizations that facilitate crowd-funding that may be better suited for her category, and there also may be organizations uniquely suited to support theater productions.
 
 ### Further Analysis:
-* It may be useful to look at the other metrics regarding the timing of campaigns and relate them to outcomes. Mapping outcomes against date closed or days-in-the-field (time the fundraiser was in action) may give Louise other insights about how to strategize her own campaign.
-* Louise may also want to look at average donation and backers count of relevant campaigns with similar categories and goals. Mapping similar campaigns as to what she needs for her play would allow her greater insight into what characteristics a successful campaign should have.
+* It may be useful to look at the other metrics regarding the timing of campaigns and relate them to outcomes. Mapping outcomes against date closed or days-in-the-field (time the fundraiser was live) may give Louise other insights about how to strategize her own campaign.
+* Louise may also want to look at average donation and backers count of relevant campaigns with similar categories and goals. Mapping campaigns similar to what she needs for her budget would allow her greater insight into what characteristics a successful campaign should have in terms of goals, backers, average donation, and timing.
 
 
